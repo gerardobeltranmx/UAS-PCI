@@ -1,3 +1,4 @@
 # Universidad Autónoma de Sinaloa
 ## Posgrado en Ciencias de la Información
-### Programacion para el Procesamiento de Datos
+### Maestría en Ciencias de la Información
+### Programación para el Procesamiento de Datos
