@@ -1,0 +1,83 @@
+a) X = X + 1
+
+b) X+=1
+
+c) X++
+
+
+int  Y = 10
+int *Z = &Y
+*Z = 20
+
+Y = 10
+K = 20
+Y = K
+
+
+R = [1,2,3,4,5,6,7]
+
+for dato in R
+   print (dato)
+
+for (i=0 ; i < 7; i++ )
+  printf("%d", R[i])
+
+
+
+
+
+
+alternativa 1
+X = 10
+X = X + 1
+
+
+alternativa 2
+
+X = 10
+X+=1
+
+alternativa 3
+
+X = 10 
+X++
+
+char *s = "Hola Mundo";
+printf("%s", s);
+
+
+char *s = "Hola Mundo";
+while (*s)
+    printf("%c", *s++);
+
+
+
+s = "Hola Mundo"
+print(s)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
