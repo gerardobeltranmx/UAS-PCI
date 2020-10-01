@@ -1,6 +1,10 @@
 N = int (input())
 
-datos = input().split(" ")
+linea = input().split(" ")
+print (linea)
+
+datos = [int(dato) for dato in linea]
+print (datos)
 
 datos.sort()
 
