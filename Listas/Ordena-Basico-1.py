@@ -3,7 +3,7 @@ N = int (input())
 # Entrada de datos
 linea = input().split(" ")
 
-# Conversion a Enteros de la lista
+# Conversión a Enteros de la lista
 datos = [int(dato) for dato in linea]
 # Ordenamiento de los datos
 datos.sort()
