@@ -1,13 +1,13 @@
 N = int (input())
 
+# Entrada de datos
 linea = input().split(" ")
-print (linea)
 
+# Conversion a Enteros de la lista
 datos = [int(dato) for dato in linea]
-print (datos)
-
+# Ordenamiento de los datos
 datos.sort()
-
+# Salida de los datos
 for dato in datos: 
     print(dato)
 
